@@ -77,3 +77,4 @@ Organización Empresarial
 
 Corrección de trazabilidad Jira-GitHub.
 Actualización del análisis del proyecto.
+Corrección final de documentación institucional.
