@@ -72,3 +72,7 @@ El script genera:
 Tomás Sopranzetti
 
 ## Proyecto académico realizado para la UTN
+
+Organización Empresarial
+
+Corrección de trazabilidad Jira-GitHub.
