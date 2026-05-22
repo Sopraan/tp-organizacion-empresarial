@@ -75,6 +75,14 @@ Tomás Sopranzetti
 
 Organización Empresarial
 
-Corrección de trazabilidad Jira-GitHub.
-Actualización del análisis del proyecto.
-Corrección final de documentación institucional.
+## Correcciones
+
+Corrección final de trazabilidad entre Jira y GitHub utilizando claves KAN válidas.
+
+## Links
+
+Jira: https://sopran.atlassian.net/jira/software/projects/KAN/list?jql=project%20%3D%20KAN%20ORDER%20BY%20cf%5B10019%5D%20ASC
+
+GitHub: https://github.com/Sopraan/tp-organizacion-empresarial
+
+Colab: https://colab.research.google.com/drive/15SgyxAoyT4KxmwSOqcch_FWjGS4pVIYk#scrollTo=Rseu4C7ZnxR3 
